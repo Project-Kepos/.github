@@ -1,5 +1,7 @@
 ## Project: Kêpos
 
+<p>"Kêpos" é uma palavra do grego antigo que se refere a um jardim ou pomar. Na mitologia grega, o Jardim das Hespérides, onde crescem as maçãs douradas que conferem a imortalidade, é frequentemente chamado de "Kêpos".<p>
+
 <!--
 
 **Here are some ideas to get you started:**
