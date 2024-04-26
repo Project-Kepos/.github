@@ -1,4 +1,4 @@
-# Projeto: Kêpos
+# Project: Kêpos
 
 <img src="https://styles.redditmedia.com/t5_3b2y1/styles/bannerBackgroundImage_mmwtin4lfjp01.png"/>
 
